@@ -9,7 +9,7 @@ KopiKita adalah ekosistem aplikasi kasir (Point of Sale) dan menu digital berbas
 Proyek ini dibangun menggunakan kombinasi teknologi modern berstandar enterprise:
 
 ### 1. Backend Framework
-- **Laravel 11** (PHP 8.2+) sebagai core engine dan RESTful API provider.
+- **Laravel 13** (PHP 8.4) sebagai core engine dan RESTful API provider.
 - **Laravel Reverb** sebagai server WebSocket bawaan untuk meng-handle komunikasi dua arah secara instan.
 - **Laravel Echo** sebagai JavaScript client untuk menangkap real-time event.
 - **Laravel Horizon** untuk memonitor antrean background jobs (Queue Worker) berbasis Redis.
