@@ -33,7 +33,7 @@ Ikuti langkah-langkah di bawah ini secara berurutan untuk menjalankan proyek Kop
 ### 1. Clone Repositori
 Buka terminal/command prompt, pilih folder direktori Anda, lalu jalankan perintah clone:
 ```bash
-git clone https://github.com
+git clone https://github.com/kaiiooo23/kopikita.git
 cd KopiKita
 ```
 
